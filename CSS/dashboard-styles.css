@@ -95,7 +95,10 @@ section {
     flex-direction: column;
 }
 
-
+.logo{
+  padding: 10px;
+  height: 70px;
+}
 section h2 {
     font-size: 1.8em;
     margin-bottom: 20px;
