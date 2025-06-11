@@ -30,9 +30,9 @@ Why Choose This Frontend System?
 Experience the unparalleled excellence of a frontend-driven Hospital Management System, transforming the future of healthcare management with a focus on user experience and operational excellence.
 
 
-Author: Arnab Saha
-Contact Email: arnabsaha9786@gmail.com
+Author: Raj Kundur
+Contact Email: rajkundur58@gmail.com
 
-Copyright © 2023 by Arnab Saha. All rights reserved.
+Copyright © 2023 by Raj Kundur. All rights reserved.
 
 All contents, code, and elements within this Hospital Management System are the intellectual property of Arnab Saha. Unauthorized reproduction or use of the code, design, or content is strictly prohibited. The work is protected under copyright laws. No part of this work may be reproduced, distributed, or transmitted in any form or by any means, including photocopying, recording, or other electronic or mechanical methods, without the prior written permission of the author. Any unauthorized usage, reproduction, or distribution may result in legal action.
